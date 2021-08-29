@@ -13,7 +13,9 @@ export default function Projects() {
             Projects
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Showcase your projects with a hero image (16 x 9)
+            Comprised of USACO Finalists and top USACO competitors, our team is committed to
+            increasing participation in competitive programming. Here are some of the resources{' '}
+            <b>you</b> can use on your journey to becoming a better programmer.
           </p>
         </div>
         <div className="container py-12">
