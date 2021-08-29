@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'CPInitiative',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'CPInitiative Blog',
+  author: 'Competitive Programming Initiative Team',
+  headerTitle: 'CPInitiative Blog',
+  description: 'Official blog of the Competitive Programming Initiative',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
