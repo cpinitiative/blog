@@ -7,16 +7,15 @@ const projectsData = [
   },
   {
     title: 'Classes',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten handphones with this simple yet affordable solution.`,
+    description:
+      'Learn USACO through affordable, high-quality classes with a curriculum designed and developed by past USACO Finalists. Designed from the ground-up to embrace the self-study video format.',
     imgSrc: '/static/images/time-machine.jpg',
     href: 'https://joincpi.org/classes',
   },
   {
     title: 'Clubs',
     description: `Get access to curriculum, problemsets, and contests tailored for competitive programming or computer science clubs, created by past USACO Finalists.`,
-    imgSrc: '/static/images/clubs.jpg',
+    imgSrc: '/static/images/time-machine.jpg',
     href: 'https://joincpi.org/clubs',
   },
   {
