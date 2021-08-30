@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'CPInitiative Blog',
+  title: 'CP Initiative Blog',
   author: 'Competitive Programming Initiative Team',
-  headerTitle: 'CPInitiative Blog',
+  headerTitle: 'CP Initiative Blog',
   description: 'Official blog of the Competitive Programming Initiative',
   language: 'en-us',
   siteUrl: 'https://blog.joincpi.org',
@@ -20,7 +20,7 @@ const siteMetadata = {
     // supports plausible, simpleAnalytics or googleAnalytics
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
-    googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
+    googleAnalyticsId: 'G-PZ3YTCE91D', // e.g. UA-000000-2 or G-XXXXXXX
   },
   comment: {
     // Select a provider and use the environment variables associated to it
