@@ -1,16 +1,10 @@
 ---
 name: Nathan Wang
-avatar: /static/images/avatar.png
-occupation: CEO Founder Entrepeneur Born in 1964
+occupation: Board President
 company: Competitive Programming Initiative
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+email: nathanwang@joincpi.org
+linkedin: https://www.linkedin.com/in/nathan-r-wang/
+github: https://github.com/thecodingwizard
 ---
 
-Nathan Wang is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
-
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Nathan Wang is the co-founder and current board president of the Competitive Programming Initiative.
