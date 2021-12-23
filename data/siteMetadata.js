@@ -8,7 +8,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/cpinitiative/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/webinar-banner.jpg',
   email: 'address@yoursite.com',
   github: 'https://github.com/cpinitiative',
   // twitter: 'https://twitter.com/Twitter',
